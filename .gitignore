@@ -1,0 +1,4 @@
+node_modules/
+dist/
+# Restes de `bun build --compile` interrompu.
+*.bun-build
